@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443235899488",
+    "firebase_url": "https://food-delivery23.firebaseio.com",
+    "project_id": "food-delivery23",
+    "storage_bucket": "food-delivery23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443235899488:android:773b1f628e1a225e558b05",
+        "android_client_info": {
+          "package_name": "com.new_crime_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443235899488-vc6hrqpmdquni9trfoif5sssm9str2j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVV4UEvSoZ24y2LapNfSqvTphvP9jhFRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443235899488-vc6hrqpmdquni9trfoif5sssm9str2j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
